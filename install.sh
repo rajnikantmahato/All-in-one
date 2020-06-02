@@ -17,11 +17,25 @@ cd Rajni_Kant
 clear
 git clone https://github.com/mkdirlove/FBTOOL
 cd FBTOOL
+wget https://raw.githubusercontent.com/rajnikantmahato/All-in-one/master/Rajnifbtool.sh
+
+cd..
 
 clear
+
 git clone https://github.com/V4N654T/dark-fb
 cd dark-fb
+wget https://raw.githubusercontent.com/rajnikantmahato/All-in-one/master/Rajnidark_fb.sh
+
 cd ..
 clear 
+
 git clone https://github.com/thelinuxchoice/blackeye
 cd blackeye
+wget https://raw.githubusercontent.com/rajnikantmahato/All-in-one/master/Rajniblackeye.sh
+cd
+echo Thanks for using Rajni Tools 
+echo Welcome
+
+figlet -f small Logo
+toilet --gay Rajni
